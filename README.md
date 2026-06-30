@@ -1,5 +1,3 @@
-![xAI Google Cloud Partnership](assets/xai-google-cloud-partnership.png)
-
 # xAI + Google Cloud: AI Co-Innovation Space
 Welcome to the co-innovation repository for the **xAI + Google Cloud** capabilities. This space is designed to showcase the deep integration between xAI’s **Grok** family of models and Google Cloud’s infrastructure. 
 
